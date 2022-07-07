@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/r0ckst23dy/r0ckst34dy-devcamp-js-footer#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
